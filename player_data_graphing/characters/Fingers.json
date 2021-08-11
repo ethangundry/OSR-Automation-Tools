@@ -1,0 +1,27 @@
+{
+	"character_name": "Fingers",
+	"player_name": "Tao",
+	"class": "Thief",
+	"death_date": -1,
+	"death_level": -1,
+	"death_party_members": ["", ""],
+
+	"level_snapshots": {
+			"lv1_snapshot": {
+					"stats": {
+						"str": 11,
+						"int": 10,
+						"wis": 10,
+						"dex": 17,
+						"con": 8,
+						"cha": 14 
+					},
+					"hp": 3,
+					"alignment": "Neutral",
+					"equipment": [
+						""
+					],
+					"spells": []
+				}
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"character_name": "Richter",
+	"player_name": "Ashlie P.",
+	"class": "Cleric",
+	"death_date": -1,
+	"death_level": -1,
+	"death_party_members": ["", ""],
+
+	"level_snapshots": {
+			"lv1_snapshot": {
+					"stats": {
+						"str": 13,
+						"int": 15,
+						"wis": 14,
+						"dex": 13,
+						"con": 14,
+						"cha": 14 
+					},
+					"hp": 3,
+					"alignment": "Lawful",
+					"equipment": [
+						"mace",
+						"shield",
+						"banded plate armor",
+						"backpack",
+						"2 weeks' iron rations",
+						"holy symbol",
+						"holy book"
+
+					],
+					"spells_known": [
+						"cure light wounds",
+						"cause light wounds",
+						"detect evil",
+						"detect magic",
+						"light",
+						"darkness",
+						"protection from evil",
+						"purify food and water",
+						"remove fear",
+						"cause fear",
+						"resist cold"
+					]
+				}
+	}
+}

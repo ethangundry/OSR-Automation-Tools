@@ -1,0 +1,47 @@
+{
+	"character_name": "Amber",
+	"player_name": "Tatiana Giron",
+	"class": "Fighter",
+	"death_date": "24 days in",
+	"death_level": 4,
+	"death_party_members": ["Marcela", "Bailey", "Bard"],
+
+	"level_snapshots": {
+			"lv1_snapshot": {
+					"stats": {
+						"str": 16,
+						"int": 5,
+						"wis": 11,
+						"dex": 9,
+						"con": 12,
+						"cha": 12
+					},
+					"hp": 1,
+					"alignment": "Neutral",
+					"equipment": [
+						"Plate armor",
+						"Sword",
+						"Shield"
+					],
+					"spells_known": []
+				}
+			"lv4_snapshot": {
+					"stats": {
+						"str": 16,
+						"int": 5,
+						"wis": 11,
+						"dex": 9,
+						"con": 12,
+						"cha": 12
+					},
+					"hp": 8,
+					"alignment": "Neutral",
+					"equipment": [
+						"Plate armor",
+						"Sword",
+						"Shield"
+					],
+					"spells_known": []
+				}
+	}
+}

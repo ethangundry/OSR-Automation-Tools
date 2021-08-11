@@ -1,0 +1,45 @@
+{
+	"character_name": "Fitzgerald",
+	"player_name": "Adrian",
+	"class": "Thief",
+	"death_date": -1,
+	"death_level": -1,
+	"death_party_members": ["", ""],
+
+	"level_snapshots": {
+			"lv1_snapshot": {
+					"stats": {
+						"str": 11,
+						"int": 10,
+						"wis": 8,
+						"dex": 15,
+						"con": 9,
+						"cha": 14 
+					},
+					"hp": 2,
+					"alignment": "Neutral",
+					"equipment": [
+						"10' Pole",
+						"Short Sword",
+						"2 Throwing Daggers",
+						"Crossbow",
+						"20 bolts",
+						"Leather armor",
+						"Backpack",
+					  "2 large treasure sacks",
+						"thieves' tools",
+						"50' rope",
+						"tinderbox",
+						"lantern",
+						"hammer",
+						"12 iron spikes",
+						"2 flasks of military oil",
+						"wineskin",
+						"2 weeks' iron rations",
+						"20 sp"
+					],
+					"spells_known": [
+					]
+				}
+	}
+}

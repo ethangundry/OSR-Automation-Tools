@@ -1,0 +1,39 @@
+{
+	"character_name": "The Traveler",
+	"player_name": "August",
+	"class": "Elven Spellsword",
+	"death_date": -1,
+	"death_level": -1,
+	"death_party_members": ["", ""],
+
+	"level_snapshots": {
+			"lv1_snapshot": {
+					"stats": {
+						"str": 13,
+						"int": 18,
+						"wis": 10,
+						"dex": 8,
+						"con": 11,
+						"cha": 14 
+					},
+					"hp": 1,
+					"alignment": "Neutral",
+					"equipment": [
+						"Sword",
+						"Dagger",
+						"Composite bow",
+						"20 arrows",
+						"Chainmail armor",
+						"backpack",
+						"2 weeks' iron rations",
+						"spell book"
+					],
+					"spells_known": [
+						"magic missile",
+						"protection from evil",
+						"sleep",
+						"hold portal"
+					]
+				}
+	}
+}

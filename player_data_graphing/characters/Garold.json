@@ -1,0 +1,45 @@
+{
+	"character_name": "Garold",
+	"player_name": "August",
+	"class": "Cleric",
+	"death_date": -1,
+	"death_level": -1,
+	"death_party_members": ["", ""],
+
+	"level_snapshots": {
+			"lv1_snapshot": {
+					"stats": {
+						"str": 13,
+						"int": 14,
+						"wis": 11,
+						"dex": 12,
+						"con": 13,
+						"cha": 6
+					},
+					"hp": 5,
+					"alignment": "Neutral",
+					"equipment": [
+						"mace",
+						"shield",
+						"banded plate armor",
+						"backpack",
+						"2 weeks' iron rations",
+						"holy symbol",
+						"holy book"
+					],
+					"spells_known": [
+						"cure light wounds",
+						"cause light wounds",
+						"detect evil",
+						"detect magic",
+						"light",
+						"darkness",
+						"protection from evil",
+						"purify food and water",
+						"remove fear",
+						"cause fear",
+						"resist cold"
+					]
+				}
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"character_name": "",
+	"player_name": "",
+	"class": "",
+	"death_date": -1,
+	"death_level": -1,
+	"death_party_members": ["", ""],
+
+	"level_snapshots": {
+			"lv1_snapshot": {
+					"stats": {
+						"str": 0,
+						"int": 0,
+						"wis": 0,
+						"dex": 0,
+						"con": 0,
+						"cha": 0
+					},
+					"hp": 0,
+					"alignment": "",
+					"equipment": [
+						""
+					],
+					"spells_known": []
+				}
+	}
+}

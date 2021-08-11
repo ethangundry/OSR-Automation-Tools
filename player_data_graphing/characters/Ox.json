@@ -1,0 +1,27 @@
+{
+	"character_name": "Ox",
+	"player_name": "Tao",
+	"class": "Fighter",
+	"death_date": -1,
+	"death_level": -1,
+	"death_party_members": ["", ""],
+
+	"level_snapshots": {
+			"lv1_snapshot": {
+					"stats": {
+						"str": 15,
+						"int": 10,
+						"wis": 8,
+						"dex": 8,
+						"con": 10,
+						"cha": 8
+					},
+					"hp": 1,
+					"alignment": "Neutral",
+					"equipment": [
+						""
+					],
+					"spells_known": []
+				}
+	}
+}

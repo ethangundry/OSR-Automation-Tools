@@ -1,0 +1,28 @@
+{
+	"character_name": "Octavio",
+	"player_name": "Tatiana Giron",
+	"class": "Dwarven Craftpriest",
+	"death_date": "Day 1",
+	"death_level": 1,
+	"death_party_members": ["Mallory", "Fiona"],
+
+	"level_snapshots": {
+			"lv1_snapshot": {
+					"stats": {
+						"str": 4,
+						"int": 7,
+						"wis": 15,
+						"dex": 11,
+						"con": 10,
+						"cha": 15
+					},
+					"hp": 3,
+					"alignment": "Neutral",
+					"equipment": [
+						"Plate armor"
+						"Warhammer"
+					],
+					"spells_known": []
+				}
+	}
+}

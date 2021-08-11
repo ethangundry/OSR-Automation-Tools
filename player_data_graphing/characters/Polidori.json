@@ -1,0 +1,34 @@
+{
+	"character_name": "Polidori",
+	"player_name": "Adrian",
+	"class": "Magic-user",
+	"death_date": -1,
+	"death_level": -1,
+	"death_party_members": ["", ""],
+
+	"level_snapshots": {
+			"lv1_snapshot": {
+					"stats": {
+						"str": 10,
+						"int": 15,
+						"wis": 13,
+						"dex": 12,
+						"con": 11,
+						"cha": 13 
+					},
+					"hp": 2,
+					"alignment": "Neutral",
+					"equipment": [
+						"Quarterstaff",
+						"Backpack",
+						"Spell book",
+						"2 weeks' iron rations",
+						"85 gp"
+					],
+					"spells_known": [
+						"protection from evil",
+						"hold portal"
+					]
+				}
+	}
+}

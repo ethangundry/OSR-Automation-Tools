@@ -1,0 +1,33 @@
+{
+	"character_name": "Chadd Darring",
+	"player_name": "Tyiler",
+	"class": "Fighter",
+	"death_date": -1,
+	"death_level": -1,
+	"death_party_members": ["", ""],
+
+	"level_snapshots": {
+			"lv1_snapshot": {
+					"stats": {
+						"str": 16,
+						"int": 9,
+						"wis": 6,
+						"dex": 10,
+						"con": 18,
+						"cha": 16 
+					},
+					"hp": 9,
+					"alignment": "neutral",
+					"equipment": [
+						"sword",
+						"shield",
+						"chainmail armor",
+						"crossbow",
+						"20 bolts",
+						"backpack",
+						"2 iron rations"
+					],
+					"spells": []
+				}
+	}
+}

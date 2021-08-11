@@ -1,0 +1,27 @@
+{
+	"character_name": "Devi",
+	"player_name": "August",
+	"class": "Fighter",
+	"death_date": -1,
+	"death_level": -1,
+	"death_party_members": ["", ""],
+
+	"level_snapshots": {
+			"lv1_snapshot": {
+					"stats": {
+						"str": 18,
+						"int": 7,
+						"wis": 9,
+						"dex": 12,
+						"con": 15,
+						"cha": 11 
+					},
+					"hp": 6,
+					"alignment": "Neutral",
+					"equipment": [
+						""
+					],
+					"spells": []
+				}
+	}
+}

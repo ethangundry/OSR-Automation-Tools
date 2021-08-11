@@ -1,0 +1,35 @@
+{
+	"character_name": "Steve Harold",
+	"player_name": "Tyiler",
+	"class": "Elven Spellsword",
+	"death_date": -1,
+	"death_level": -1,
+	"death_party_members": ["", ""],
+
+	"level_snapshots": {
+			"lv1_snapshot": {
+					"stats": {
+						"str": 8,
+						"int": 13,
+						"wis": 12,
+						"dex": 13,
+						"con": 13,
+						"cha": 10
+					},
+					"hp": 2,
+					"alignment": "Neutral",
+					"equipment": [
+					  "Quarterstaff",
+						"Backpack",
+						"Spell book",
+						"2 weeks' iron rations",
+						"85 gp"
+					],
+					"spells_known": [
+						"protection from evil",
+						"floating disc",
+						"shield"
+					]
+				}
+	}
+}

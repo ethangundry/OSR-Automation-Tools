@@ -5,7 +5,6 @@ from typing import List
 class Menu:
     def __init__(self, choices: List[str]):
         self.choices = choices
-        self.choice = self.get_choice
 
     def get_choice(self):
         print("Please choose one of the following options by entering the "
@@ -17,7 +16,10 @@ class Menu:
 
         selection = -1
         while selection not in range(1, len(self.choices) + 1):
-            selection = int(input())
+            try:
+                selection = int(input())
+            except Exception:
+                print("Please input a valid choice.")
         choice = self.choices[selection - 1]
 
         return choice
